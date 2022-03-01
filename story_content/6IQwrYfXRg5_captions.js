@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.44.23192.0%0D%0A%0D%0A00:00:00.160%20--%3E%2000:00:03.792%0D%0AAs%20I%20told%20you%20before%20the%20internal%20factors%20consist%20of%20strengths%20and%20weaknesses.%20%20%0D%0A%0D%0A"}')
